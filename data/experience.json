@@ -2,13 +2,13 @@
 	"title": "Experience",
 	"experience": [
 		{
-			"timeperiod": "GLOBIS Corporation",
-			"company": "Aug 2018 - Present",
+			"timeperiod": "Aug 2018 - Present",
+			"company": "GLOBIS Corporation",
 			"description": "Data Scientist"
 		},
 		{
-			"timeperiod": "aptpod,Inc.",
-			"company": "Aug 2017 - July 2018",
+			"timeperiod": "Aug 2017 - July 2018",
+			"company": "aptpod,Inc.",
 			"description": "Data Scientist"
 		},
 		{
