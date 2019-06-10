@@ -1,0 +1,15 @@
+{
+	"title": "Services",
+	"services": [
+		{
+			"icon": "pencil-ruler",
+			"title": "Logo Design",
+			"description": "TODO: not yet written"
+		},
+		{
+			"icon": "pen-nib",
+			"title": "Graphics Design",
+			"description": "TODO: not yet written"
+		}
+	]
+}

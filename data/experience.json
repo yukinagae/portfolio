@@ -1,0 +1,25 @@
+{
+	"title": "Experience",
+	"experience": [
+		{
+			"timeperiod": "GLOBIS Corporation",
+			"company": "Aug 2018 - Present",
+			"description": "Data Scientist"
+		},
+		{
+			"timeperiod": "aptpod,Inc.",
+			"company": "Aug 2017 - July 2018",
+			"description": "Data Scientist"
+		},
+		{
+			"timeperiod": "Dec 2015 - July 2017",
+			"company": "JAMS.TV PTY LTD",
+			"description": "Web Developer"
+		},
+		{
+			"timeperiod": "June 2011 - May 2015",
+			"company": "WeServe Co.,Ltd.",
+			"description": "Web Developer"
+		}
+	]
+}
